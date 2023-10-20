@@ -4,7 +4,7 @@ class Me:
   job_exp          : str  = "2+ years"
 
 class Contacts(Me):
-  discord         : str = "kirei#8097"
+  discord         : str = ".kirssei"
   
 class Stack(BackEndDeveloper):
   languages        : list = ["Python", "JS"]
