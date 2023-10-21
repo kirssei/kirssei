@@ -1,7 +1,7 @@
 ```python
 class Me:
   hobbys           : list = ["tech stuff", "science", "languages"]
-  job_exp          : str  = "2+ years"
+  job_exp          : str  = "3+ years"
 
 class Contacts(Me):
   discord         : str = ".kirssei"
@@ -12,11 +12,12 @@ class Stack(BackEndDeveloper):
                               "Python": [
                                           "Django",
                                           "Django Rest Framework",
-                                          "Celery"
+                                          "Celery",
+                                          "FastAPI"
                                         ],
                               "JS": [
-                                      "React"
+                                      "React",
                                     ]
                             }
-  database         : list = ["MySQL", "PostgreSQL", "Redis"]
+  database         : list = ["MySQL", "PostgreSQL", "Redis", "SQLite", "RabbitMQ"]
 ```
