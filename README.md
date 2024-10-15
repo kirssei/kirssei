@@ -1,7 +1,7 @@
 ```python
 class Me:
   hobbys           : list = ["tech stuff", "science", "languages"]
-  job_exp          : str  = "3+ years"
+  job_exp          : str  = "4+ years"
 
 class Contacts(Me):
   discord         : str = ".kirssei"
