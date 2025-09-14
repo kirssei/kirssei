@@ -5,6 +5,7 @@ class Me:
 
 class Contacts(Me):
   discord         : str = ".kirssei"
+  telegram        : str = "kirssei"
   
 class Stack(BackEndDeveloper):
   languages        : list = ["Python", "JS"]
